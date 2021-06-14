@@ -1,0 +1,2 @@
+xmrig.exe -a randomx/0 --url=pool.minexmr.com:4444 -u 82zfJhH3TB4B5aAUvM7J7ZFQp4MxB1izWWdwzNxi1MKd2UpYuoT75jjQmUfS7w8mN7ezP4VqEZC1W7RYkbhEAx5mVUepMcB -R --variant=-1 --donate-level=1 --max-cpu-usage=75 -B 
+pause
